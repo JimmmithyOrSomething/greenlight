@@ -1,4 +1,16 @@
 (please disregard spelling, I write most of these late at night)
+July 16th:
+Today I got a lot done, I first did a lot of research on how a machine like ethis works while figuring out how I would make this on a small budget. Then I did the math behind the amount of photons in a beam of light which ended up being a lot. After that I worked on how to bring that number down. Then I researched the parts I would need to build this and found some good options that should fit into my budget. I found a good light filter that can remove 2^20 times the light as well as a few other tricks that should be helpful. Then I made a circut desigh and wrote a tiny bit of code for it. Normaly I would make a physical version but I didn't have some of the parts so I used tinker cad (which is actualy really good at this type of thing) and it's working fine so far. The code required for this is only a few lines for now beucase it's bascialy just checking for light. For everything is working but I will deffinely need some changees once I have the actual parts.
+
+
+<img width="2433" height="1033" alt="Screenshot 2025-07-16 220408" src="https://github.com/user-attachments/assets/3d4e187f-a982-47bb-bff9-a73f46d14e51" />
+
+
+toatl time spent 3.25h
+
+
+
+
 
 July 15th:
 
