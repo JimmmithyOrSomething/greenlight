@@ -1,4 +1,18 @@
 (please disregard spelling, I write most of these late at night)
+
+Total time spent: 9.75h
+
+July 19th:
+Today I worked on my CAD Model for the dark box to hold the whole project I made cutouts for both pcbs as well as a spot for the filter and the 5050 reflector And for the laser diode then I made a little box for the microcontroller sit inside with holes that I can later cover up and just run wires through to avoid any light from the microcontroller or from outside when I run power and data inside the box. That I got my project already to submit because I'm pretty much done I put all my files inside my Github.
+
+
+<img width="1455" height="1092" alt="Screenshot 2025-07-19 133352" src="https://github.com/user-attachments/assets/8894f90d-c1c4-4645-8d83-0af19a1574f1" />
+
+
+
+Total time spent: 1.5h
+
+
 July 18th:
 So I started today by updating my tinker cad version i'm still using that because I don't have the parts I need and it works pretty well to just write some test code and that went pretty well I added in a button functionality and wrote a couple more lines of code. Then I switched over to starting my schematic which was a little more complicated than I thought it would be but I found a pretty good way to do it and did it to an ability I'm confident with. I was initially going to have two photo diodes on one PCB and just have extra but I figured because I'm getting sent 5 it doesn't make sense to make one giant pcb that spans the whole space I need and I'll just make two small pcbs that I can place as necessary and I can just wire them into the board I use. Then I decided to just keep going and I did the whole routing of the PCB I used a copper port just because I wanted to have more confidence that my signal would be strong and good. I wrote it into a small rectangle and everything seems fine.
 
