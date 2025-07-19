@@ -1,3 +1,13 @@
+
+---
+title: "Greenlight"
+author: "Eamonn"
+description: "A quantum random number generator"
+created_at: "2025-07-15"
+---
+
+
+
 (please disregard spelling, I write most of these late at night)
 
 Total time spent: 9.75h
