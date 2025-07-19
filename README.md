@@ -8,6 +8,7 @@ I've always been so interested in how nothing in our world is truly random but w
 
 <img width="1311" height="697" alt="Screenshot 2025-07-19 133405" src="https://github.com/user-attachments/assets/85c23642-85bc-4182-b31a-a35feaf75316" />
 <img width="1455" height="1092" alt="Screenshot 2025-07-19 133352" src="https://github.com/user-attachments/assets/19f2fb88-769c-4fd7-a0e5-be2ff4e7bac9" />
+<img width="1471" height="843" alt="image" src="https://github.com/user-attachments/assets/df080088-4432-4423-ac87-7e1600465eab" />
 
 
 | item | quantity | price(total)  | info | link
