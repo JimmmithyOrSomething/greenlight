@@ -3,7 +3,7 @@ greenlight quantum number genorator
 
 I've always been so interested in how nothing in our world is truly random but we still can never predict everything about any situation beucase all our information is relative. And I've always found it so cool how things on a quantum scale don't have to follow the same rules that we do like existing in one place at a time or needing a reason for something to happen. I built greenlight to show myself a little bit about how existance really works by generating a truly random number using a beam of light.
 
-
+This is a quantum number generator, basically because nothing in our world can be random on a large scale this is a device that uses a beam of light split into two via a special panel which means exactly half of the photons go one way and half go the other. This means that when one photon hits the panel it both goes through and bounces off (existing in a super position)until it is read by one of the photo diodes at which point that position becomes real (like schrodinger's cat but with light instead of a sensor looking for decay) And this can generate a fully random number that no computer could ever guess because it doesn’t follow our idea of cause and effect.
 
 
 <img width="1311" height="697" alt="Screenshot 2025-07-19 133405" src="https://github.com/user-attachments/assets/85c23642-85bc-4182-b31a-a35feaf75316" />
